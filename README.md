@@ -36,6 +36,8 @@ This is a complete, working demo of **Visual RAG (Retrieval-Augmented Generation
 ```
 
 ---
+## 🛠️ Live Demo 
+https://huggingface.co/spaces/Faraz618/VisualRAG
 
 ## 🛠️ Tech Stack
 
