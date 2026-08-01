@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 What is VisualRAG?...
+## 📌 What is VisualRAG?....
 
 VisualRAG is a **multi-modal AI pipeline** that lets you:
 
