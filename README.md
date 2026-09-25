@@ -1,4 +1,4 @@
-# 🔍 VisualRAG — Multi-Modal AI System..
+# 🔍 VisualRAG — Multi-Modal AI System...
 
 > **Object Detection + Visual Embeddings + Retrieval-Augmented Generation + LLM, all in one Gradio app.**
 
